@@ -2,4 +2,4 @@
 
 Talk given at Reactathon 2018
 
-By: Tyler Martinez <mailto:slightlytyler@gmail.com>
+By: Tyler Martinez, slightlytyler@gmail.com
